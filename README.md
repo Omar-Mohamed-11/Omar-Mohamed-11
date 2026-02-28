@@ -22,8 +22,6 @@
   <a href="https://codeforces.com/profile/-MoRa-"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width=4% alt="Codeforces"/></a>
   &emsp; 
   <a href="https://leetcode.com/u/_MoRa_/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width=4% alt="LeetCode"/></a>
-  &emsp; 
-  <a href="https://www.codechef.com/users/moraa46"><img src="https://img.icons8.com/color/50/000000/codechef.png" width=4% alt="CodeChef"/></a>
 </div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="3%"> My Skills
